@@ -1,3 +1,5 @@
-## Sección pyme de curso FalconMaster - Udemy
+## Startup de curso FalconMaster - Udemy
 
-Css utilizando sass (scss), problemas con el margin en el head.
+* Css utilizando Sass.
+* Problema con el header donde no toma los 200px del header. 
+* Bootstrap 4.6
